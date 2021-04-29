@@ -45,5 +45,6 @@ pip install -r requirements.txt
 ## Usage & examples
 
 Just run the parse-conf.py script and select the config file. The output will be generated in the same directory.
+Use "example.cfg" as test input, the output will be "example.cfg.xls"
 
 
